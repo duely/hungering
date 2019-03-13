@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "hungering:rotten_carrot",
+    "count": 1
+  },
+  "pattern": [
+    "RRR",
+    "RCR",
+    "RRR"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "R": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "C": {
+      "item": "minecraft:carrot"
+    }
+  }
+}

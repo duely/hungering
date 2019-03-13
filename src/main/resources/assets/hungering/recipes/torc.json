@@ -1,0 +1,28 @@
+{
+  "result": {
+    "item": "hungering:torc",
+    "count": 1
+  },
+  "pattern": [
+    "CW ",
+    "WBW",
+    " W "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "C": {
+      "item":  "hungering:rotten_carrot"
+    },
+    "W": {
+      "type": "forge:ore_dict",
+      "ore": "plankWood"
+    },
+    "B": {
+      "type": "forge:ore_dict",
+      "ore": "blockIron"
+    }
+  },
+  "conditions": [{
+    "type": "hungering:torc_enabled"
+  }]
+}

@@ -1,0 +1,5 @@
+{
+  "conditions": {
+    "torc_enabled": "com.noobanidus.hungering.recipes.conditions.ConditionFactory$TorcEnabled"
+  }
+}

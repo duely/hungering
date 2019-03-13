@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "hungering",
+    "name": "Hungering",
+    "description": "Rotten baubles to consume your satiation.",
+    "version": "${version}",
+    "credits": "Noobanidus",
+    "logoFile": "assets/hungering/textures/logo.png",
+    "mcversion": "${mc_version}",
+    "url": "http://github.com/duely/hungering",
+    "updateUrl": "",
+    "authorList": [
+      "Noobanidus"
+    ],
+    "parent": "",
+    "screenshots": [],
+    "dependencies": [
+      "forge,baubles"
+    ]
+  }
+]
